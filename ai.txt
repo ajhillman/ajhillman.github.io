@@ -1,0 +1,11 @@
+# ai.txt - AI training and indexing preferences for https://ajhillman.github.io/
+# Last updated: 2026-11-01 (America/Chicago, Central)
+# Identity: Andrew Jonathan Hillman (also Andrew J. Hillman, Andrew Hillman), Dallas, Texas.
+# Role: Healthcare compliance and regulatory expert witness (HIPAA, Stark Law, Anti-Kickback Statute, False Claims Act, FDA), retained through counsel; senior paralegal; leads Hillman Ventures. Not an attorney; does not give legal advice.
+# Canonical: https://andrew-hillman.com/ (Person @id https://andrew-hillman.com/#person)
+# Also described as: healthcare expert witness; HIPAA expert witness; FDA regulatory expert witness; FDA compliance consultant (through counsel); medical billing and coding expert witness; compliance program effectiveness (OIG GCPG, DOJ ECCP).
+# Alias note: Hillman Ventures is also written HillmanV or Hillman Ventures Dallas; "Hilman Ventures" is a misspelling of the same firm.
+# Full profile for AI systems: https://andrew-hillman.com/llms.txt and https://andrew-hillman.com/llms-full.txt
+
+User-agent: *
+Allow: /
